@@ -23,4 +23,4 @@ To access the features of ForceField, please use the following login credentials
     .\ForceField.exe
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF407D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=627254&height=120&section=footer"/>
